@@ -1,0 +1,202 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\_ROBERT\_DEV\PROJECTS\MT\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Windows\SysWOW64\Spr32x60.ocx=
+C:\Windows\SysWOW64\fpSPR80.OCX=
+C:\Windows\SysWOW64\craxdrt.dll=
+C:\Windows\SysWOW64\CRViewer.dll=
+C:\Windows\SysWOW64\LicenceServer.dll=
+C:\Windows\SysWOW64\ErrorServices.dll=
+C:\Windows\SysWOW64\msxml3.dll=
+C:\Program Files (x86)\Common Files\System\ado\msadox28.tlb=
+C:\Program Files (x86)\Common Files\System\ado\msado26.tlb=
+C:\Windows\SysWOW64\wshom.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+C:\_ROBERT\_DEV\PROJECTS\MT\Guide utilisateur MdT.pdf=
+C:\_ROBERT\_DEV\PROJECTS\MT\Campagne.rpt=
+C:\_ROBERT\_DEV\PROJECTS\MT\fondsplein.rpt=
+C:\_ROBERT\_DEV\PROJECTS\MT\hypoplein.rpt=
+C:\_ROBERT\_DEV\PROJECTS\MT\Paiement.rpt=
+C:\_ROBERT\_DEV\PROJECTS\MT\persoplein.rpt=
+C:\_ROBERT\_DEV\PROJECTS\MT\MDT.INI=
+C:\_ROBERT\_DEV\PROJECTS\MT\MdT.mdb=
+C:\_ROBERT\_DEV\PROJECTS\MT\EditPeriode.ss6=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\_ROBERT\_DEV\PROJECTS\MT\MdT.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\wshom.ocx=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado26.tlb=Yes
+C:\Program Files (x86)\Common Files\System\ado\msadox28.tlb=Yes
+C:\Windows\SysWOW64\msxml3.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\dao360.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjet40.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjter40.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjint40.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\vbajet32.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\expsrv.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\mswstr10.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\mswdat10.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msrd2x40.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msrd3x40.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msrepl40.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjtes40.dll=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\VB5DB.DLL=Yes
+C:\Windows\SysWOW64\ErrorServices.dll=Yes
+C:\Windows\SysWOW64\LicenceServer.dll=Yes
+C:\Windows\SysWOW64\CRViewer.dll=Yes
+C:\Windows\SysWOW64\craxdrt.dll=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\fpSPR80.OCX=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\DBLIST32.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\Spr32x60.ocx=Yes
+C:\Windows\SysWOW64\MSDATLST.OCX=Yes
+C:\Windows\SysWOW64\RICHTX32.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\Guide utilisateur MdT.pdf=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\Campagne.rpt=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\fondsplein.rpt=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\hypoplein.rpt=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\Paiement.rpt=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\persoplein.rpt=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\MDT.INI=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\MdT.mdb=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\EditPeriode.ss6=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\_ROBERT\_DEV\PROJECTS\MT\MdT.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\wshom.ocx=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msadox28.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\msxml3.dll=$(WinSysPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\dao360.dll=$(MSDAOPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjet40.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjter40.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjint40.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\vbajet32.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\expsrv.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\mswstr10.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\mswdat10.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msrd2x40.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msrd3x40.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msrepl40.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\msjtes40.dll=$(WinSysPathSysFile)
+C:\_ROBERT\_DEV\PROJECTS\MT\__SETUP\MT\Support\VB5DB.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\ErrorServices.dll=$(WinSysPath)
+C:\Windows\SysWOW64\LicenceServer.dll=$(WinSysPath)
+C:\Windows\SysWOW64\CRViewer.dll=$(WinSysPath)
+C:\Windows\SysWOW64\craxdrt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\fpSPR80.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\DBLIST32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\Spr32x60.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\Guide utilisateur MdT.pdf=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\Campagne.rpt=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\fondsplein.rpt=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\hypoplein.rpt=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\Paiement.rpt=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\persoplein.rpt=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\MDT.INI=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\MdT.mdb=$(AppPath)
+C:\_ROBERT\_DEV\PROJECTS\MT\EditPeriode.ss6=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\_ROBERT\_DEV\PROJECTS\MT\MdT.exe=No
+C:\_ROBERT\_DEV\PROJECTS\MT\Guide utilisateur MdT.pdf=No
+C:\_ROBERT\_DEV\PROJECTS\MT\Campagne.rpt=No
+C:\_ROBERT\_DEV\PROJECTS\MT\fondsplein.rpt=No
+C:\_ROBERT\_DEV\PROJECTS\MT\hypoplein.rpt=No
+C:\_ROBERT\_DEV\PROJECTS\MT\Paiement.rpt=No
+C:\_ROBERT\_DEV\PROJECTS\MT\persoplein.rpt=No
+C:\_ROBERT\_DEV\PROJECTS\MT\MDT.INI=No
+C:\_ROBERT\_DEV\PROJECTS\MT\MdT.mdb=No
+C:\_ROBERT\_DEV\PROJECTS\MT\EditPeriode.ss6=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=MdT
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\_ROBERT\_DEV\PROJECTS\MT\Package
+ProjectFolder=C:\_ROBERT\_DEV\PROJECTS\MT
+ServerSideCab=
+File1=C:\_ROBERT\_DEV\PROJECTS\MT\Package\setup.exe
+File2=C:\_ROBERT\_DEV\PROJECTS\MT\Package\Setup.Lst
+File3=C:\_ROBERT\_DEV\PROJECTS\MT\Package\MdT.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=MdT
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|MdT]
+Icon1=MdT.exe
+Title1=MdT
+StartIn1=$(AppPath)
+Key1=Icon1
